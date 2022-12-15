@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T06:19:26.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.2" etag="qWZFu2zat7ucpEInlb2R" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-15T06:21:53.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.2" etag="tABR_rVDhasrFWvw2x4l" type="github">
   <diagram id="ni3E_sGURiG4ElbOa-kU" name="Page-1">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="jv1PtK33VZUvRL0FAoP5-3" value="StatusBar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jv1PtK33VZUvRL0FAoP5-4" value="CarSystemBarController" style="rounded=0;html=1;whiteSpace=wrap;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="510" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="jv1PtK33VZUvRL0FAoP5-4" value="CarSystemBarController" style="rounded=0;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="495" y="335" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
